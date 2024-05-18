@@ -22,7 +22,7 @@ import { NAV_LINKS } from '@/data/constants'
       class="flex flex-row items-center justify-between max-w-[1400px] mx-auto">
       <div
         class="flex gap-4 items-center cursor-pointer text-primary hover:text-blue-300"
-        @click="goTop, (isOpen = false)">
+        @click="goTop">
         <span class="inline-block">
           <Icon
             name="fa6-solid:code"

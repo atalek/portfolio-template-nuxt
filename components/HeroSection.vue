@@ -13,7 +13,7 @@ import { HERO_SECTION } from '@/data/constants'
       <h1 class="font-semibold text-4xl sm:text-5xl md:text-6xl">
         Hi! I'm
         <span class="poppins text-primary">Lorem</span> Ipsum <br />Lorem, ipsum
-        dolor.
+        dolor
         <span class="poppins text-primary">Developer</span>
       </h1>
       <p class="text-base sm:text-lg md:text-xl text-balance">
