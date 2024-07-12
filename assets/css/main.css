@@ -7,7 +7,7 @@ html {
 }
 
 body {
-  @apply bg-slate-50 dark:bg-slate-950 text-black dark:text-gray-50;
+  @apply bg-slate-50 dark:bg-slate-950 text-black dark:text-gray-50 transition duration-300;
 }
 
 * {
@@ -91,10 +91,6 @@ h3,
   opacity: 0;
   transform: translateY(10px);
   animation: fadeIn 0.2s ease-in-out forwards;
-}
-
-.animate-link:nth-child(1) {
-  animation-delay: 0s;
 }
 
 .animate-link:nth-child(2) {
