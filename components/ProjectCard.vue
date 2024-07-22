@@ -8,7 +8,7 @@ defineProps({
 })
 </script>
 <template>
-  <div class="shadow-xl transition-all hover:scale-[1.03]">
+  <div class="shadow-xl transition-all hover:scale-[1.03] hover:shadow-primary">
     <div
       class="h-52 md:h-72 rounded-t-xl relative group project-picture"
       :style="{

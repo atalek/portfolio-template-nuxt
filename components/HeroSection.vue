@@ -12,8 +12,7 @@ import { HERO_SECTION } from '@/data/constants'
       class="flex flex-col lg:justify-center text-center lg:text-left gap-6 md:gap-8 lg:gap-10">
       <h1 class="font-semibold text-4xl sm:text-5xl md:text-6xl">
         Hi! I'm
-        <span class="poppins text-primary">Lorem</span> Ipsum <br />Lorem, ipsum
-        dolor
+        <span class="poppins text-primary">Lorem</span> Ipsum <br />Lorem, ipsum dolor
         <span class="poppins text-primary">Developer</span>
       </h1>
       <p class="text-base sm:text-lg md:text-xl text-balance">
