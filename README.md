@@ -34,7 +34,7 @@ dark and light mode for user preference.
 2. **Navigate to the project directory.**
 
    ```bash
-   cd portfolio-template
+   cd portfolio-template-nuxt
 
    ```
 
