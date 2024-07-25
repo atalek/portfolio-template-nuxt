@@ -4,9 +4,9 @@
     <HeroSection />
     <div class="md:mb-36" />
     <ProjectSection />
-    <div class="md:my-24" />
+    <div class="md:my-24 my-16" />
     <AboutSection />
-    <div class="md:my-24" />
+    <div class="md:my-24 my-16" />
     <ContactSection />
   </main>
 </template>

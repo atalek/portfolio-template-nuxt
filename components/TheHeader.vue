@@ -18,8 +18,7 @@ import { NAV_LINKS } from '@/data/constants'
       'py-4 dark:bg-black bg-slate-200 border-primary border-b-2': y > 0,
       'py-6 bg-transparent border-transparent': y <= 0,
     }">
-    <nav
-      class="flex flex-row items-center justify-between max-w-[1400px] mx-auto">
+    <nav class="flex flex-row items-center justify-between max-w-[1400px] mx-auto">
       <div
         class="flex gap-4 items-center cursor-pointer text-primary hover:text-blue-300"
         @click="goTop">
@@ -31,13 +30,9 @@ import { NAV_LINKS } from '@/data/constants'
         <h1 class="font-medium text-xl">
           <b class="font-bold poppins mr-1"
             >Lorem
-            <span class="font-bold poppins mr-1 md:hidden inline-block"
-              >I.</span
-            ></b
+            <span class="font-bold poppins mr-1 md:hidden inline-block">I.</span></b
           >
-          <span class="font-bold poppins ml-1 hidden md:inline-block">
-            Ipsum
-          </span>
+          <span class="font-bold poppins ml-1 hidden md:inline-block"> Ipsum </span>
         </h1>
       </div>
 
@@ -104,7 +99,7 @@ import { NAV_LINKS } from '@/data/constants'
       </a>
 
       <a
-        href="#contact"
+        href="https://linkedin.com/"
         target="_blank"
         aria-label="Contact page link"
         class="rounded p-2 bg-primary animate-link">

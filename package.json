@@ -15,7 +15,7 @@
     "@nuxtjs/google-fonts": "^3.2.0",
     "nuxt": "^3.12.4",
     "nuxt-icon": "^0.6.10",
-    "vue": "^3.4.33"
+    "vue": "^3.4.34"
   },
   "dependencies": {
     "@nuxtjs/tailwindcss": "^6.12.1",

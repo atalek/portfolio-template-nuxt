@@ -14,12 +14,11 @@ useHead({
     },
     {
       name: 'keywords',
-      content:
-        'portfolio template, Nuxt 3, Tailwind CSS, web development, customization',
+      content: 'portfolio template, Nuxt 3, Tailwind CSS, web development, customization',
     },
-    { name: 'author', content: 'Your Name' },
+    { name: 'author', content: 'Aleksandar Atanasovski' },
     { property: 'og:type', content: 'website' },
-    { property: 'og:url', content: 'https://portfolio-template.atalek.com/' },
+    { property: 'og:url', content: 'https://portfolio-template-nuxt.atalek.com/' },
     {
       property: 'og:title',
       content: 'Portfolio Template with Nuxt 3 & Tailwind CSS',
@@ -42,7 +41,7 @@ useHead({
     },
     {
       property: 'twitter:url',
-      content: 'https://portfolio-template.atalek.com/',
+      content: 'https://portfolio-template-nuxt.atalek.com/',
     },
     {
       property: 'twitter:title',
@@ -63,5 +62,3 @@ useHead({
     <NuxtPage />
   </NuxtLayout>
 </template>
-
-<style></style>

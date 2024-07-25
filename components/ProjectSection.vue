@@ -7,12 +7,9 @@ import { PROJECTS } from '@/data/constants'
     class="pt-60 flex flex-col gap-24"
     id="projects">
     <div class="flex flex-col gap-2 text-center">
-      <h3 class="text-large sm:text-xl md:text-2xl">
-        A few of my creative endeavors.
-      </h3>
+      <h3 class="text-large sm:text-xl md:text-2xl">A few of my creative endeavors.</h3>
       <h4 class="font-semibold text-3xl sm:text-4xl md:text-5xl">
-        Curious to <span class="poppins text-primary">see</span> my personal
-        projects?
+        Curious to <span class="poppins text-primary">see</span> my personal projects?
       </h4>
     </div>
 
@@ -28,5 +25,3 @@ import { PROJECTS } from '@/data/constants'
     </div>
   </section>
 </template>
-
-<style scoped></style>

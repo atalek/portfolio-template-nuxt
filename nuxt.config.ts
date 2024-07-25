@@ -1,6 +1,7 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   devtools: { enabled: true },
+
   modules: [
     '@nuxtjs/tailwindcss',
     '@nuxtjs/color-mode',
@@ -8,6 +9,7 @@ export default defineNuxtConfig({
     'nuxt-icon',
     '@nuxtjs/google-fonts',
   ],
+
   css: ['~/assets/css/main.css'],
 
   colorMode: {
@@ -36,4 +38,6 @@ export default defineNuxtConfig({
       autoSubfolderIndex: false,
     },
   },
+
+  compatibilityDate: '2024-07-25',
 })
